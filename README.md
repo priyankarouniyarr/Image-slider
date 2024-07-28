@@ -1,6 +1,6 @@
-# imageslider
+# ImageSlider
 
-A new Flutter project.
+This project demonstrates how to create an image slider in Flutter using the `carousel_slider` package with smooth page indicator animations.
 
 ## Getting Started
 
